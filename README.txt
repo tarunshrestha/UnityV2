@@ -1,0 +1,1 @@
+OS : Ubuntu 22 (Ubuntu 24 gave a lot of problem so downgraded)
